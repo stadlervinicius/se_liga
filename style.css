@@ -3,7 +3,7 @@
     color: black;
     text-align: center;
     border: 20px;
-    border-style: hidden;
+    border-style: groove;
     border-color: rgb(114, 0, 0);
 }
 #imagem-estudante{}
