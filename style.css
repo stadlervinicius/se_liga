@@ -3,10 +3,14 @@
     color: rgb(6, 105, 3);
     text-align: center;
     border: 10px;
-    border-style: dashed;
+    border-style: groove;
     border-color: rgb(114, 0, 0);
 }
-#imagem-estudante{}
+#imagem-estudante{
+    border: dashed 10px white;
+    width: 500px;
+    height: 300px;
+}
 p{
     color:white;
     font-size: 20px;
