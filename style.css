@@ -3,7 +3,7 @@
     color: rgb(6, 105, 3);
     text-align: center;
     border: 15px;
-    border-style: groove;
+    border-style: dashed;
     border-color: rgb(114, 0, 0);
 }
 #imagem-estudante{}
